@@ -16,7 +16,7 @@ console.log (window.web3.currentProvider)
 
 
 // contractAddress and abi are setted after contract deploy
-var contractAddress = '0x227325F8d74b4e7Dcfc861B6934Ca69E0a26708E';
+var contractAddress = '0x0810ccADD79610263930294Df5d4647fEf9aBF94';
 
 var abi = [
 	{
